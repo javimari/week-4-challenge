@@ -26,7 +26,7 @@ my-blog
 ```
 The following animation demonstrates the application functionality:
 
-![A user adds a blog through a form, then the post appears on the following page.](./Assets/images/100-web-apis-challenge-demo.gif)
+![A user adds a blog through a form, then the post appears on the following page.](./Assets/week4.gif)
 
 ### Dependencies
 
@@ -35,8 +35,4 @@ The following animation demonstrates the application functionality:
 ### Installing
 
 * Application is deployed using GitHub Pages.
-
-### Executing program
-
-* User can directly go to the GitHUb page using the below link:
 
